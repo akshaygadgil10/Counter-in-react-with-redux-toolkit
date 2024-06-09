@@ -22,3 +22,9 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+![image](https://github.com/akshaygadgil10/Counter-in-react-with-redux-toolkit/assets/51160882/bc3c0140-23be-408c-b30d-2700a81d8f38)
+
+![image](https://github.com/akshaygadgil10/Counter-in-react-with-redux-toolkit/assets/51160882/15f5082a-e9a2-4ee2-8f0c-cd70c1bc1f7d)
+
+
